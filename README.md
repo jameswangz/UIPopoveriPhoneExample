@@ -1,1 +1,1 @@
-UIPopoverPresentationController on iPhone for iOS8 example.
+UIPopoverPresentationController for iPhone on iOS8 example.
