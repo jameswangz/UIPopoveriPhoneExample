@@ -3,7 +3,6 @@
 //  PopoverTest
 //
 //  Created by James Wang on 12/30/14.
-//  Copyright (c) 2014 Dell Software. All rights reserved.
 //
 
 import UIKit
